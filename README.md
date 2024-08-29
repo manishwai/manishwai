@@ -1,8 +1,13 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMW/XbBpCXG8fHI/AAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_ig8SXJQCLcBGASYHQ/s1600/2000_600px.gif)
+
+
+
 ## Hi there 👋
 
 # About Me
 
-![Hello! I am Manish Walia](https://yourgifurl.com/animated-hello.gif)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 
