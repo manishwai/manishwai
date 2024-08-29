@@ -34,12 +34,13 @@ Proficient in Microsoft Excel, Power BI, SQL, and Python, I excel at turning com
 
 I am actively seeking opportunities for career growth and hands-on experience in data analytics. Eager to contribute to a dynamic team, I aim to drive strategic decision-making through innovative, data-driven solutions. Let’s connect and explore how we can collaborate on exciting data analytics projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Walia-blue)](https://www.linkedin.com/in/manish-walia-673b501a4)  
-[![Email](https://img.shields.io/badge/Email-alhuwalia6784manish@gmail.com-red)](mailto:alhuwalia6784manish@gmail.com)
+
 
 ---
 
 ---
 
-Feel free to explore my repositories and connect with me through [LinkedIn](https://www.linkedin.com/in/manish-walia-673b501a4) or [email](mailto:alhuwalia6784manish@gmail.com)!
+Feel free to explore my repositories and connect with me through
+# [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Walia-blue)](https://www.linkedin.com/in/manish-walia-673b501a4)  
+# ![Email](https://img.shields.io/badge/Email-alhuwalia6784manish@gmail.com-red)
 
